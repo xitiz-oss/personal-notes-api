@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Shopping List",
+      "content": "Buy milk, bread, and eggs",
+      "date": "2024-08-19T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Workout Routine",
+      "content": "Morning run and weight training",
+      "date": "2024-08-19T06:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Meeting Notes",
+      "content": "Discuss project milestones and deadlines",
+      "date": "2024-08-18T15:30:00Z"
+    }
+  ]
+  
